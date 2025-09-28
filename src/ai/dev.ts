@@ -1,1 +1,6 @@
-// Flows will be imported for their side effects in this file.
+import { config } from 'dotenv';
+config();
+
+import '@/ai/flows/nl-query-clarification.ts';
+import '@/ai/flows/schema-understanding-for-queries.ts';
+import '@/ai/flows/dynamic-schema-suggestion.ts';
