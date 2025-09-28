@@ -4,7 +4,7 @@ import { Bar, BarChart, CartesianGrid, XAxis, YAxis, ResponsiveContainer } from 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/ui/chart";
 import { Progress } from "@/components/ui/progress";
-import { Table, Columns, Link, Users, BarChart2, Zap } from "lucide-react";
+import { Table, Users, BarChart2, Zap, FileText } from "lucide-react";
 import { discoveredSchema, chartData, chartConfig } from "@/lib/data";
 
 export default function MetricsDashboard() {
