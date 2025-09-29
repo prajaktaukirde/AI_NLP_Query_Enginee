@@ -1,6 +1,6 @@
 # AI Engineering — NLP Query Engine
 
-![Project Banner](./assets/banner.png)
+Demo Video link : https://www.youtube.com/watch?v=j9owdX_nuIM
 
 > **A sleek, web-based platform for ingesting, exploring, and querying structured and unstructured data — combining SQL power with semantic document search.**
 
